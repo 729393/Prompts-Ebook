@@ -60,3 +60,6 @@ faça um texto para ebook, com foco na performance e saúde na vida profissional
 >	Sempre deixe um titulo sugestivo por tópico
 
 Podes desenvolver um pouco mais a conclusao utilizando mais umas 3 linhas, com tom motivador
+
+
+https://github.com/729393/Prompts-Ebook
